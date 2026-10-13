@@ -1,0 +1,13 @@
+species,formula,B_T,magnetic_perturbation_index_D,lorentz_number_abs_qB_over_zeta,estimated_D_m2_s
+"As(III), neutral arsenous acid",H3AsO3,0.0,0.0,0.0,6.386067939905456e-10
+"As(III), neutral arsenous acid",H3AsO3,1.5,0.0,0.0,6.386067939905456e-10
+"As(III), neutral arsenous acid",H3AsO3,5.0,0.0,0.0,6.386067939905456e-10
+"As(III), neutral arsenous acid",H3AsO3,10.0,0.0,0.0,6.386067939905456e-10
+"As(V), dihydrogen arsenate",H2AsO4-,0.0,0.0,0.0,6.122515750796637e-10
+"As(V), dihydrogen arsenate",H2AsO4-,1.5,2.747691699381629e-13,3.50295700466043e-08,6.122515750798319e-10
+"As(V), dihydrogen arsenate",H2AsO4-,5.0,8.977706867801314e-13,1.16765233488681e-07,6.122515750802134e-10
+"As(V), dihydrogen arsenate",H2AsO4-,10.0,1.7796665721010204e-12,2.33530466977362e-07,6.122515750807533e-10
+"As(V), hydrogen arsenate",HAsO4^2-,0.0,0.0,0.0,6.836331789449111e-10
+"As(V), hydrogen arsenate",HAsO4^2-,1.5,2.6692401232245317e-11,7.00591400932086e-08,6.836331789266633e-10
+"As(V), hydrogen arsenate",HAsO4^2-,5.0,8.900653350912078e-11,2.33530466977362e-07,6.836331788840633e-10
+"As(V), hydrogen arsenate",HAsO4^2-,10.0,1.7809020306967143e-10,4.67060933954724e-07,6.836331788231627e-10

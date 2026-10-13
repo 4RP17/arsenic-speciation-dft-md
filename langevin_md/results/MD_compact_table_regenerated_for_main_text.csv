@@ -1,0 +1,10 @@
+Species,Formula,Charge,B field (T),Input D (m2/s),Estimated D from MSD (m2/s),Lorentz number |q|B/zeta,Magnetic perturbation index |D(B)-D(0)|/D(0)
+"As(V), hydrogen arsenate",HAsO₄²⁻,-2,0.0,6e-10,6.83633178944911e-10,0.0,0.0
+"As(V), hydrogen arsenate",HAsO₄²⁻,-2,1.5,6e-10,6.836331789266632e-10,7.00591400932086e-08,2.669240123224532e-11
+"As(V), hydrogen arsenate",HAsO₄²⁻,-2,10.0,6e-10,6.836331788231626e-10,4.67060933954724e-07,1.7809020306967146e-10
+"As(V), dihydrogen arsenate",H₂AsO₄⁻,-1,0.0,6e-10,6.122515750796636e-10,0.0,0.0
+"As(V), dihydrogen arsenate",H₂AsO₄⁻,-1,1.5,6e-10,6.122515750798318e-10,3.50295700466043e-08,2.7476916993816293e-13
+"As(V), dihydrogen arsenate",H₂AsO₄⁻,-1,10.0,6e-10,6.122515750807532e-10,2.33530466977362e-07,1.7796665721010208e-12
+"As(III), neutral arsenous acid",H₃AsO₃,0,0.0,5e-10,6.386067939905455e-10,0.0,0.0
+"As(III), neutral arsenous acid",H₃AsO₃,0,1.5,5e-10,6.386067939905455e-10,0.0,0.0
+"As(III), neutral arsenous acid",H₃AsO₃,0,10.0,5e-10,6.386067939905455e-10,0.0,0.0

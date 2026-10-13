@@ -1,0 +1,37 @@
+Sample_No,Sample_Label,Peak_center_cm-1
+1,500 ppb As(III),576.11759
+1,500 ppb As(III),669.48667
+1,500 ppb As(III),997.11926
+2,200 ppb As(III),531.22137
+2,200 ppb As(III),668.8359
+2,200 ppb As(III),760.43836
+2,200 ppb As(III),966.83673
+3,100 ppb As(III),535.15202
+3,100 ppb As(III),669.21769
+3,100 ppb As(III),807.32334
+4,50 ppb As(III),531.21095
+4,50 ppb As(III),586.74337
+4,50 ppb As(III),987.65792
+5,200 ppb As(V),535.19714
+5,200 ppb As(V),668.96085
+6,100 ppb As(V),516.26382
+6,100 ppb As(V),560.90271
+6,100 ppb As(V),1036.04692
+7,50 ppb As(V),514.3726
+7,50 ppb As(V),547.9187
+7,50 ppb As(V),579.601
+7,50 ppb As(V),672.7845
+7,50 ppb As(V),903.8794
+7,50 ppb As(V),1023.1542
+8,500 ppb As(V),650.42508
+8,500 ppb As(V),669.05963
+8,500 ppb As(V),954.1985
+8,500 ppb As(V),1051.1093
+9,UDWN natural field sample,501.30876
+9,UDWN natural field sample,512.17161
+9,UDWN natural field sample,557.4335
+9,UDWN natural field sample,669.0571
+10,UDWN acidified field sample,587.54488
+10,UDWN acidified field sample,671.03711
+10,UDWN acidified field sample,748.69006
+10,UDWN acidified field sample,969.84338

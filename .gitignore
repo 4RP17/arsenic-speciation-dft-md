@@ -1,0 +1,19 @@
+# ORCA scratch / large binaries
+*.gbw
+*.densities
+*.densitiesinfo
+*.tmp
+*.cpcm
+*.cpcm_corr
+*.engrad
+*.opt
+*_trj.xyz
+*.bibtex
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+md_outputs/
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+Sample,Mass used in VSM file (g),Average time (s),Time constant (s),Instrument Ms / maximum moment descriptor (emu),Instrument Mr (emu),High-field average slope dmoment/dH (emu/Oe),"Mass susceptibility, high-field average (m3/kg)",Molar susceptibility for powder only (m3/mol),Average high-field R2,Interpretation
+As(III) powder / NaAsO2,0.15,5.0,3.0,0.00093488,1.7351e-05,-8.272847524423365e-08,-6.930644535199187e-09,-9.003600315677264e-10,0.9986067840861255,sample-level apparent diamagnetic slope
+As(V) powder / Na2HAsO4·7H2O,0.143,5.0,3.0,0.0012182,2.4457e-05,-1.0792220061471734e-07,-9.483848744347969e-09,-2.9590556467240097e-09,0.999606866958507,sample-level apparent diamagnetic slope
+As(V) aqueous specimen,0.103,,1.0,0.0011356,3.3163e-06,-7.449265592636445e-08,-9.088372062316844e-09,,0.998884737853209,sample-level apparent diamagnetic slope

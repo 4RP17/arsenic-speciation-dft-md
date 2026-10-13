@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Speciation-Dependent Magnetic Response of Inorganic Arsenic Species: DFT, Langevin modelling and FTIR/VSM data"
+type: dataset
+authors:
+  - family-names: Kumar
+    given-names: Arpit
+    affiliation: "Manipal Institute of Applied Physics, Manipal Academy of Higher Education"
+date-released: 2026-10-14
+url: "https://github.com/4RP17/arsenic-speciation-dft-md"
+keywords:
+  - arsenic speciation
+  - density functional theory
+  - ORCA
+  - r2SCAN-3c
+  - CPCM
+  - vibrational spectroscopy
+  - FTIR
+  - vibrating sample magnetometry
+  - Langevin dynamics
+license: MIT

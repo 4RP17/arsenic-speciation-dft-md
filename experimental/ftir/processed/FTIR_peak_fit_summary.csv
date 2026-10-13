@@ -1,0 +1,11 @@
+Sample No.,Sample,Reported peak centers (cm^-1),Fit R^2,Status
+1,500 ppb As(III),"576.12, 669.49, 997.12",0.9703281798507232,fit_converged
+2,200 ppb As(III),"531.22, 760.44, 668.84, 966.84",0.9824368892464825,fit_converged
+3,100 ppb As(III),"535.15, 669.22, 807.32",0.9839385965357937,fit_converged
+4,50 ppb As(III),"586.74, 531.21, 987.66",0.9617083497056493,fit_converged
+5,200 ppb As(V),"668.96, 535.20",0.9831531789783224,fit_converged
+6,100 ppb As(V),"516.26, 560.90, 1036.05",0.9749856803754658,fit_converged
+7,50 ppb As(V),"514.37, 547.92, 579.60, 672.78, 903.88, 1023.15",0.9898292615073219,fit_converged
+8,500 ppb As(V),"954.20, 1051.11, 650.43, 669.06",0.982170478539002,fit_converged
+9,UDWN natural field sample,"669.06, 512.17, 557.43, 501.31",0.9887625891166858,fit_converged
+10,UDWN acidified field sample,"587.54, 748.69, 671.04, 969.84",0.966009162563598,fit_converged
